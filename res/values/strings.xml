@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">AccountManager</string>
+    <string name="app_name">记账本</string>
     <string name="action_settings">Settings</string>
+
+    <string-array name="spinner_outaccount_type">
+        <item>衣服装饰</item>
+        <item>出行交通</item>
+        <item>娱乐聚会</item>
+        <item>生活用品</item>
+        <item>水电房租</item>
+        <item>缴费清单</item>
+    </string-array>
+    <string-array name="spinner_inaccount_type">
+        <item>工资奖金</item>
+        <item>股票收益</item>
+        <item>投资盈利</item>
+    </string-array>
+
+    <string name="title_activity_welcom">记账本</string>
     <string name="hello_world">Hello world!</string>
 
 </resources>
